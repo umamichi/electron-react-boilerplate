@@ -1719,11 +1719,6 @@
       "from": "electron-localshortcut@>=0.6.0 <0.7.0",
       "resolved": "https://registry.npmjs.org/electron-localshortcut/-/electron-localshortcut-0.6.1.tgz"
     },
-    "electron-log-rotate": {
-      "version": "1.0.1",
-      "from": "git://github.team-lab.local/jr-vm/electron-log-rotate.git",
-      "resolved": "git://github.team-lab.local/jr-vm/electron-log-rotate.git#1789550dbf8a3624e622e6683aceac6cf0ab88aa"
-    },
     "electron-osx-sign": {
       "version": "0.3.2",
       "from": "electron-osx-sign@>=0.3.0 <0.4.0",

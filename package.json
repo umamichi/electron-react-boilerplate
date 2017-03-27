@@ -109,7 +109,6 @@
     "autoprefixer": "^6.4.0",
     "css-modules-require-hook": "^4.0.2",
     "electron-debug": "^1.0.1",
-    "electron-log-rotate": "git://github.team-lab.local/jr-vm/electron-log-rotate.git",
     "express": "^4.14.0",
     "howler": "^2.0.0",
     "lodash": "^4.15.0",

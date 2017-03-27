@@ -40,7 +40,6 @@ export default merge(baseConfig, {
     'source-map-support',
     'superagent',
     'electron-json-storage',
-    'electron-log-rotate',
     'normalize.css',
     'lodash',
     'rimraf',
