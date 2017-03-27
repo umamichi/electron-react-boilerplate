@@ -1,0 +1,31 @@
+.quitButton {
+  width: 300px;
+  height: 60px;
+  font-size: 22px;
+  cursor: pointer;
+}
+
+.oscButton {
+  width: 300px;
+  height: 60px;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.logDiv {
+  width: 600px;
+  background-color: orange;
+  font-size: 18px;
+  color: #000;
+  box-sizing: border-box;
+  font-weight: bold;
+  padding: 20px;
+}
+
+.restSecond {
+  display: inline-block;
+  float: right;
+  font-size: 40px;
+  color: red;
+  margin-top: -12px;
+}

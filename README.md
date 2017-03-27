@@ -1,15 +1,10 @@
-# skytree-server
+# electron-react-boilerplate
 
 forked this repository : [chentsulin/electron-react-boilerplate: Live editing development on desktop app](https://github.com/chentsulin/electron-react-boilerplate)
 
 > Live editing development on desktop app
 
 [Electron](http://electron.atom.io/) application boilerplate based on [React](https://facebook.github.io/react/), [Redux](https://github.com/reactjs/redux), [React Router](https://github.com/reactjs/react-router), [Webpack](http://webpack.github.io/docs/), [React Transform HMR](https://github.com/gaearon/react-transform-hmr) for rapid application development
-
-## Assets Structure
-
-First, Please copy all files to __assets__ folder from this URL.
-https://drive.google.com/drive/folders/0B9apzatlhAI8MTJaNVJPZ1RsUTA?usp=sharing		
 
 
 ## Install
@@ -121,11 +116,3 @@ Please checkout [Building windows apps from non-windows platforms](https://githu
 ## Native-like UI
 
 If you want to have native-like User Interface (OS X El Capitan and Windows 10), [react-desktop](https://github.com/gabrielbull/react-desktop) may perfect suit for you.
-
-
-## Maintainers
-
-- [hisasann](https://github.com/hisasann)
-
-## License
-MIT © [hisasann](https://github.com/hisasann)
