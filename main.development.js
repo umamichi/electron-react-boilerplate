@@ -63,5 +63,5 @@ app.on('ready', async () => {
     // Mac の場合
   } else {
     // それ以外
-  }
+  }    
 });
