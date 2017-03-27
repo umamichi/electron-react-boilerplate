@@ -3,21 +3,6 @@ import rmdir from 'rimraf';
 
 let mainWindow = null;
 
-// crash reporter
-// crashReporter.start({
-//   productName: 'YourName',
-//   companyName: 'YourCompany',
-//   submitURL: 'http://localhost:4567/crashReporter',
-//   // submitURL: 'http://localhost:1127/',
-//   autoSubmit: true
-// });
-
-// Execute a crash
-// setTimeout(() => {
-//   process.crash();
-// }, 3000);
-
-
 if (process.env.NODE_ENV === 'development') {
   require('electron-debug')(); // eslint-disable-line global-require
 }
