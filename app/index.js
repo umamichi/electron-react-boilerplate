@@ -9,8 +9,6 @@ render(
   document.getElementById('root')
 );
 
-// http://qiita.com/kgsi/items/075775de7ed574481242
-// Disabled zoom
 let webFrame = window.require('electron').webFrame;
 webFrame.setZoomLevelLimits(1, 1);
 
